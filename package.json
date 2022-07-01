@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@0x/subproviders": "^6.6.5",
     "@truffle/hdwallet-provider": "^2.0.10-alpha.2",
     "next": "12.1.6",
     "opensea-js": "^4.0.4",

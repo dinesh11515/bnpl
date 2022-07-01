@@ -29,7 +29,7 @@ export default function Home() {
     // const balanceOfWETH = await seaport.getTokenBalance({
     //   accountAddress:"0x625B892f34ACA436e1525e5405A8fb81eC5cc04d",
     //   tokenAddress: "0xc778417E063141139Fce010982780140Aa0cD5Ab"
-    // })
+    // })yes
     // console.log(balanceOfWETH)
 		await seaport.createBuyOrder({
       asset: {

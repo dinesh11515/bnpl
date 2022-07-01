@@ -741,7 +741,7 @@
 
 "async-eventemitter@^0.2.2", "async-eventemitter@github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c":
   "integrity" "sha512-r5kBYYiJl6FZbyCgL4UCGqdax5yJH9JFpOKbj66g3uPBy+9GxDNtC8eWbXGvC5HBNJtpo3NVismLbqrwjfvVcA=="
-  "resolved" "git+ssh://git@github.com/ahultgren/async-eventemitter.git#fa06e39e56786ba541c180061dbf2c0a5bbf951c"
+  "resolved" "https://registry.npmjs.org/async-eventemitter/-/async-eventemitter-0.2.2.tgz"
   "version" "0.2.3"
   dependencies:
     "async" "^2.4.0"
